@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=stinger101&color=green)
 I am John Rarui(Stinger101).
 ![](https://hit.yhype.me/github/profile?user_id=32893657)
-![](https://komarev.com/ghpvc/?username=ashishpatel26&color=green)
+
 <!--
 **Stinger101/stinger101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
