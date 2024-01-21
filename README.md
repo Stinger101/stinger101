@@ -1,5 +1,6 @@
-### Hi there 👋![](https://hit.yhype.me/github/profile?user_id=32893657)
+### Hi there 👋
 I am John Rarui(Stinger101).
+![](https://hit.yhype.me/github/profile?user_id=32893657)
 <!--
 **Stinger101/stinger101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
